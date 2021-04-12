@@ -1,0 +1,16 @@
+C:\Users\sheeh\source\repos\TripSimulator_ConsoleApp\TripSimulator_ConsoleApp\bin\Debug\net5.0\TripSimulator_ConsoleApp.exe
+C:\Users\sheeh\source\repos\TripSimulator_ConsoleApp\TripSimulator_ConsoleApp\bin\Debug\net5.0\TripSimulator_ConsoleApp.deps.json
+C:\Users\sheeh\source\repos\TripSimulator_ConsoleApp\TripSimulator_ConsoleApp\bin\Debug\net5.0\TripSimulator_ConsoleApp.runtimeconfig.json
+C:\Users\sheeh\source\repos\TripSimulator_ConsoleApp\TripSimulator_ConsoleApp\bin\Debug\net5.0\TripSimulator_ConsoleApp.runtimeconfig.dev.json
+C:\Users\sheeh\source\repos\TripSimulator_ConsoleApp\TripSimulator_ConsoleApp\bin\Debug\net5.0\TripSimulator_ConsoleApp.dll
+C:\Users\sheeh\source\repos\TripSimulator_ConsoleApp\TripSimulator_ConsoleApp\bin\Debug\net5.0\ref\TripSimulator_ConsoleApp.dll
+C:\Users\sheeh\source\repos\TripSimulator_ConsoleApp\TripSimulator_ConsoleApp\bin\Debug\net5.0\TripSimulator_ConsoleApp.pdb
+C:\Users\sheeh\source\repos\TripSimulator_ConsoleApp\TripSimulator_ConsoleApp\obj\Debug\net5.0\TripSimulator_ConsoleApp.csprojAssemblyReference.cache
+C:\Users\sheeh\source\repos\TripSimulator_ConsoleApp\TripSimulator_ConsoleApp\obj\Debug\net5.0\TripSimulator_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheeh\source\repos\TripSimulator_ConsoleApp\TripSimulator_ConsoleApp\obj\Debug\net5.0\TripSimulator_ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\sheeh\source\repos\TripSimulator_ConsoleApp\TripSimulator_ConsoleApp\obj\Debug\net5.0\TripSimulator_ConsoleApp.AssemblyInfo.cs
+C:\Users\sheeh\source\repos\TripSimulator_ConsoleApp\TripSimulator_ConsoleApp\obj\Debug\net5.0\TripSimulator_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\sheeh\source\repos\TripSimulator_ConsoleApp\TripSimulator_ConsoleApp\obj\Debug\net5.0\TripSimulator_ConsoleApp.dll
+C:\Users\sheeh\source\repos\TripSimulator_ConsoleApp\TripSimulator_ConsoleApp\obj\Debug\net5.0\ref\TripSimulator_ConsoleApp.dll
+C:\Users\sheeh\source\repos\TripSimulator_ConsoleApp\TripSimulator_ConsoleApp\obj\Debug\net5.0\TripSimulator_ConsoleApp.pdb
+C:\Users\sheeh\source\repos\TripSimulator_ConsoleApp\TripSimulator_ConsoleApp\obj\Debug\net5.0\TripSimulator_ConsoleApp.genruntimeconfig.cache
