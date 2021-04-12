@@ -70,7 +70,7 @@ namespace TripSimulator_ConsoleApp
                 Console.WriteLine("Let's go home!");
                 Drive(myTrip, "Home");
 
-                double totalCost = myTrip.souvenierCost + myTrip.fuelCost + myTrip.foodCost + myTrip.hotelCost + myTrip.businessCost + myTrip.souvenierCost;
+                double totalCost = myTrip.souvenierCost + myTrip.fuelCost + myTrip.foodCost + myTrip.hotelCost*myTrip.nightsThere + myTrip.businessCost + myTrip.souvenierCost;
                 Console.WriteLine($"Your simulated trip to {myTrip.destination} has completed." +
                     $"On your drive, you stopped {myTrip.stops} time(s) " +
                     $"and spent {totalCost:c}.\nYour itemized breakdown is: " +
